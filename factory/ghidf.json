@@ -1,0 +1,9 @@
+{
+	"name": "ghidf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acbf3f14-06d9-470e-b1d8-fd900308510e",
+		"tenantId": "2d988898-be94-47f8-a3b8-84acd40b556a"
+	}
+}
